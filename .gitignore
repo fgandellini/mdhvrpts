@@ -1,3 +1,5 @@
 # Ignora le directory Debug e Release e tutti i files contenuti
-.\Debug\*
-.\Release\* 
+Debug
+Debug/*.*
+Release
+Release/*.* 
